@@ -2,4 +2,5 @@
 
 ## Personal plugins
 * VimBeGood
+* Vim fugitive
 
