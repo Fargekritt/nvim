@@ -1,6 +1,7 @@
 # Fargekritt NeoVim config
-
-## Personal plugins
+## KickStart plugins
+ 
+## Added plugins
 * VimBeGood
 * Vim fugitive
 
